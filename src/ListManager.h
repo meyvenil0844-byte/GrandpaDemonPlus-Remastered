@@ -92,6 +92,12 @@ class ListManager {
                     } else {
                         return CCSprite::createWithSpriteFrameName("GrD_demon5.png"_spr);
                     }
+                } else {
+                    if (hasText) {
+                        return CCSprite::createWithSpriteFrameName("GrD_demon6_text.png"_spr);
+                     } else {
+                        return CCSprite::createWithSpriteFrameName("GrD_demon6.png"_spr);
+                    }
                 }
             } 
             return nullptr;
@@ -119,5 +125,6 @@ class ListManager {
 
         
 };
+
 
 #endif

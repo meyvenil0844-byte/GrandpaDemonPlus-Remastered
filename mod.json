@@ -1,15 +1,15 @@
 {
-  "geode": "4.9.0",
+  "geode": "4.10.0",
   "version": "v1.2.2",
   "gd": {
     "win": "2.2074",
     "android": "2.2074",
     "mac": "2.2074"
   },
-  "id": "itzkiba.grandpa_demon",
+  "id": "meyvenil0844byte.grandpa_demon_plus",
   "name": "Grandpa Demon",
   "developer": "ItzKiba",
-  "description": "Adds additional demon difficulties",
+  "description": "Adds additional demon difficulties and one Above Grandpa Demon",
   "resources": {
     "spritesheets": {
       "GrD_IconSheet": ["resources/demons/*.png"],
@@ -38,5 +38,5 @@
     }
   },
   "tags": ["online", "enhancement", "interface"],
-  "repository": "https://github.com/ItzKiba/GrandpaDemon"
+  "repository": "https://github.com/meyvenil0844-byte/GrandpaDemonPlus-Remastered"
 }

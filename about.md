@@ -1,4 +1,4 @@
-# <cy>Grandpa Demon</c>
+# <cy>GrandpaDemonPlus-Remastered</c>
 <cj>A mod created by meyvenil0844-byte.</c>
 <cj>Original Grandpa Demon Mod by ItzKiba</c>
 
@@ -34,3 +34,4 @@ The difficulties of extreme demons are chosen based on their positions on the [A
 
 * **<co>AeonAir</c>** for making me do this out of spite in the first place
 * **<cr>ItzKiba</c>** Original Grandpa Demon Mod by ItzKiba
+

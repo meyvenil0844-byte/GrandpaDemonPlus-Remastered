@@ -4,7 +4,7 @@ A mod created by meyvenil0844-byte.
 ![Title](resources/readme/difficulties.png)
 
 ## Overview
-The humble Extreme Demon is the highest difficulty in all of Geometry Dash. **However, there is no possible way that Acheron and ACU should be considered the same difficulty.** Think that there should be more demon difficulties above Extreme? oh? want one Above Grandpa Demom? Look no further than the **GrandpaDemonPlus-Remastered mod!**
+The humble Extreme Demon is the highest difficulty in all of Geometry Dash. **However, there is no possible way that Acheron and ACU should be considered the same difficulty.** Think that there should be more demon difficulties above Extreme? oh? want one Above Grandpa Demon? Look no further than the **GrandpaDemonPlus-Remastered mod!**
 
 ## Features
 * *Up to 6 new demon difficulties* above Extreme Demon!
@@ -37,4 +37,5 @@ The difficulties of extreme demons are chosen based on their positions on the [A
 
 * **AeonAir** for making me do this out of spite in the first place
 * **ItzKiba** original Grandpa Demon Mod
+
 

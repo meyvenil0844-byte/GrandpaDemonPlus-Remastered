@@ -14,6 +14,7 @@ class $modify(GrdDemonFilterSelectLayer, DemonFilterSelectLayer) {
         CCSprite* m_demon3Spr = nullptr;
         CCSprite* m_demon4Spr = nullptr;
         CCSprite* m_demon5Spr = nullptr;
+        CCSprite* m_demon6Spr = nullptr;
     };
     
 
@@ -125,7 +126,7 @@ class $modify(GrdDemonFilterSelectLayer, DemonFilterSelectLayer) {
 
         auto demon6Spr = CCSprite::createWithSpriteFrameName("GrD_demon6_text.png"_spr);
         this->m_fields->m_demon6Spr = demon6Spr;
-        auto demon4Btn = CCMenuItemSpriteExtra::create(demon4Spr, this, menu_selector(GrdDemonFilterSelectLayer::onButton6));
+        auto demon6Btn = CCMenuItemSpriteExtra::create(demon6Spr, this, menu_selector(GrdDemonFilterSelectLayer::onButton6));
         newMenu->addChild(demon6Btn);
         }   
         
@@ -177,4 +178,5 @@ void onButton6(CCObject* sender) {
         geode::cocos::switchToScene(browserLayer);
     }
 };
+
 
